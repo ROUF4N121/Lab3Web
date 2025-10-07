@@ -267,7 +267,7 @@ Screenshot
 
 ### 1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection
 
-Buat file baru dengan nama lab3_form.html seperti berikut.
+Buat file baru dengan nama Tugas.Lab3.html seperti berikut.
 
 ```html
 <!DOCTYPE html>
