@@ -333,7 +333,7 @@ Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti beriku
 ```
 
 Screenshot
-![](image/screenshot10.png)
+![](image/screenshot9.png)
 
 Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut.
 
